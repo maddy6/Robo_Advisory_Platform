@@ -16,3 +16,7 @@ https://www.coindesk.com/price/
 
 https://letstalkpayments.com/8-companies-to-follow-for-financial-data-on-cryptocurrency-markets/
 
+### Open Source API for free Data
+
+https://www.cryptocompare.com/api/#-api-data-pricehistorical-
+
