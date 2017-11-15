@@ -20,3 +20,4 @@ https://letstalkpayments.com/8-companies-to-follow-for-financial-data-on-cryptoc
 
 https://www.cryptocompare.com/api/#-api-data-pricehistorical-
 
+https://www.coinigy.com/
